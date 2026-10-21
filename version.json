@@ -1,0 +1,19 @@
+{
+  "versionName": "1.2.0",
+  "versionCode": 12,
+  "releaseDate": "2026-10-21",
+  "changelog": {
+    "ru": "• 🎬 Просмотр официальных трейлеров на карточке\n• 📊 Индикатор размера данных и очистка кэша в настройках\n• ⚡ Мгновенный холодный старт интерфейса",
+    "uk": "• 🎬 Перегляд офіційних трейлерів на картці\n• 📊 Індикатор розміру даних та очищення кешу в налаштуваннях\n• ⚡ Миттєвий холодний старт інтерфейсу"
+  },
+  "platforms": {
+    "android": {
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.0/kinokot-v1.2.0.apk",
+      "size": "18.5 MB"
+    },
+    "webos": {
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.0/kinokot-v1.2.0.ipk",
+      "size": "5.2 MB"
+    }
+  }
+}
