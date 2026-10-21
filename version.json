@@ -1,20 +1,20 @@
 {
-  "versionName": "1.2.5",
-  "versionCode": 17,
+  "versionName": "1.2.6",
+  "versionCode": 18,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "en": "• Ci: fix secrets context access in Decode Release Keystore step",
-    "ru": "• Ci: fix secrets context access in Decode Release Keystore step",
-    "uk": "• Ci: fix secrets context access in Decode Release Keystore step"
+    "en": "• ⚡ Устранение лагов при открытии карточки фильма, оптимизация скролла и производительности на ТВ и смартфонах",
+    "ru": "• ⚡ Устранение лагов при открытии карточки фильма, оптимизация скролла и производительности на ТВ и смартфонах",
+    "uk": "• ⚡ Устранение лагов при открытии карточки фильма, оптимизация скролла и производительности на ТВ и смартфонах"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.5/kinokot-v1.2.5.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.6/kinokot-v1.2.6.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.5/kinokot-v1.2.5.ipk",
-      "size": "142K"
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.6/kinokot-v1.2.6.ipk",
+      "size": "143K"
     }
   }
 }
