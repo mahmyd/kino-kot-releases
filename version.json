@@ -1,19 +1,19 @@
 {
-  "versionName": "1.2.1",
-  "versionCode": 13,
+  "versionName": "1.2.2",
+  "versionCode": 14,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "ru": "• ⚡ Оптимизация производительности и улучшение стабильности интерфейса",
-    "uk": "• ⚡ Оптимізація продуктивності та покращення стабільності інтерфейсу"
+    "ru": "• Preserve full bottom navigation bar on mobile and prevent sidebar collapse\n• Ci: enforce explicit RELEASES_PAT validation",
+    "uk": "• Preserve full bottom navigation bar on mobile and prevent sidebar collapse\n• Ci: enforce explicit RELEASES_PAT validation"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.1/kinokot-v1.2.1.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.2/kinokot-v1.2.2.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.1/kinokot-v1.2.1.ipk",
-      "size": "139K"
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.2/kinokot-v1.2.2.ipk",
+      "size": "140K"
     }
   }
 }
