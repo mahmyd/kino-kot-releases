@@ -1,19 +1,19 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 14,
+  "versionName": "1.2.3",
+  "versionCode": 15,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "ru": "• Preserve full bottom navigation bar on mobile and prevent sidebar collapse\n• Ci: enforce explicit RELEASES_PAT validation",
-    "uk": "• Preserve full bottom navigation bar on mobile and prevent sidebar collapse\n• Ci: enforce explicit RELEASES_PAT validation"
+    "ru": "• Guarantee widescreen TV layout on TCL and Android TV devices",
+    "uk": "• Guarantee widescreen TV layout on TCL and Android TV devices"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.2/kinokot-v1.2.2.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.3/kinokot-v1.2.3.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.2/kinokot-v1.2.2.ipk",
-      "size": "140K"
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.3/kinokot-v1.2.3.ipk",
+      "size": "141K"
     }
   }
 }
