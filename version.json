@@ -1,19 +1,20 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 15,
+  "versionName": "1.2.5",
+  "versionCode": 17,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "ru": "• Guarantee widescreen TV layout on TCL and Android TV devices",
-    "uk": "• Guarantee widescreen TV layout on TCL and Android TV devices"
+    "en": "• Ci: fix secrets context access in Decode Release Keystore step",
+    "ru": "• Ci: fix secrets context access in Decode Release Keystore step",
+    "uk": "• Ci: fix secrets context access in Decode Release Keystore step"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.3/kinokot-v1.2.3.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.5/kinokot-v1.2.5.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.3/kinokot-v1.2.3.ipk",
-      "size": "141K"
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.5/kinokot-v1.2.5.ipk",
+      "size": "142K"
     }
   }
 }
