@@ -1,19 +1,19 @@
 {
-  "versionName": "1.2.7",
-  "versionCode": 19,
+  "versionName": "1.2.8",
+  "versionCode": 20,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "en": "• Pre-warm active Rezka mirror and solve Anubis PoW during startup sync",
-    "ru": "• Pre-warm active Rezka mirror and solve Anubis PoW during startup sync",
-    "uk": "• Pre-warm active Rezka mirror and solve Anubis PoW during startup sync"
+    "en": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs",
+    "ru": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs",
+    "uk": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.7/kinokot-v1.2.7.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.8/kinokot-v1.2.8.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.7/kinokot-v1.2.7.ipk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.8/kinokot-v1.2.8.ipk",
       "size": "137K"
     }
   }
