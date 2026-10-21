@@ -1,20 +1,20 @@
 {
-  "versionName": "1.2.8",
-  "versionCode": 20,
+  "versionName": "1.2.9",
+  "versionCode": 21,
   "releaseDate": "2026-10-21",
   "changelog": {
-    "en": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs",
-    "ru": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs",
-    "uk": "• Restore portrait orientation on phones and tablets by distinguishing touchscreen devices from TVs"
+    "en": "• Notify on auto mirror switch, optimize dev proxy timeouts and card loading",
+    "ru": "• Notify on auto mirror switch, optimize dev proxy timeouts and card loading",
+    "uk": "• Notify on auto mirror switch, optimize dev proxy timeouts and card loading"
   },
   "platforms": {
     "android": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.8/kinokot-v1.2.8.apk",
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.9/kinokot-v1.2.9.apk",
       "size": "8.7M"
     },
     "webos": {
-      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.8/kinokot-v1.2.8.ipk",
-      "size": "137K"
+      "url": "https://github.com/mahmyd/kino-kot-releases/releases/download/v1.2.9/kinokot-v1.2.9.ipk",
+      "size": "140K"
     }
   }
 }
